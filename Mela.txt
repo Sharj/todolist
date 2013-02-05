@@ -1,0 +1,9 @@
+Codename Mela
+
+1) Develop a backend for managing Mela
+2) Create simple API
+3) Create simple Android aplication and UI experiments
+4) Write backend jobs for gathering information related Mela
+5) Update API
+6) Update Android application 
+7) Make iPhone application

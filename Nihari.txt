@@ -1,0 +1,6 @@
+Codename Nihari
+1) Develop a simple private web based prototype 
+2) Develop backend for admin
+3) Develop an API
+3) Develop an Android application
+4) Develop an iPhone application
